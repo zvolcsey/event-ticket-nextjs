@@ -1,6 +1,8 @@
 {
   "name": "examples-trpc-next-prisma-starter",
   "private": true,
+  "author": "Zoltán Völcsey",
+  "license": "MIT",
   "scripts": {
     "generate": "prisma generate",
     "prisma-studio": "prisma studio",
