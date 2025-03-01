@@ -8,7 +8,23 @@
 
 ## Table of Contents
 
-1. [License](#license)
+1. [Run locally](#run-locally)
+2. [License](#license)
+
+## Run locally
+
+You need have Node.js 20 or higher installed.
+
+```bash
+  # Clone the repository
+  git clone git@github.com:zvolcsey/event-ticket-nextjs.git
+  cd event-ticket-nextjs
+```
+
+```bash
+  # Create the .env from the .env.template
+  cp .env.template .env
+```
 
 ## License
 
