@@ -1,5 +1,6 @@
 {
-  "name": "examples-trpc-next-prisma-starter",
+  "name": "event-ticket-nextjs",
+  "description": "It is a Next.js full-stack Event Ticket e-commerce portfolio project",
   "private": true,
   "author": "Zoltán Völcsey",
   "license": "MIT",
